@@ -145,7 +145,7 @@ redirect_from:
 
 ●山东省大学生创新创业大赛评审专家
 
-●第九届全国高校BIM毕业设计创新大赛评审专家
+●全国高校BIM毕业设计创新大赛评审专家
 <span class='anchor' id="internships"></span>
 # 🧑‍🤝‍🧑 团队成员
 ●2023级  
