@@ -148,5 +148,5 @@ redirect_from:
 ●第九届全国高校BIM毕业设计创新大赛评审专家
 <span class='anchor' id="internships"></span>
 # 🧑‍🤝‍🧑 团队成员
-●2023级< br >
+●2023级  
 王传昊，获批“鲁东大学研究生创新项目”（首届）一项，在研。
