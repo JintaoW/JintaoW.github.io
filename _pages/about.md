@@ -137,11 +137,13 @@ redirect_from:
 ●鲁东大学先进工作者，2022.01.
 <span class='anchor' id="invited-talks"></span>
 # 👨‍💻学术兼职
+●Rock Mechanics and Rock Engineering, Engineering Fracture Mechanics, Journal of Rock Mechanics and Geotechnical Engineering等十余个国际高水平期刊审稿人
+
 ●国际岩石力学学会（ISRM）会员
 
 ●中国岩石力学与工程学会会员
 
-●国家自然科学基金项目网评专家
+●国家自然科学基金项目函评专家
 
 ●中国研究生教育评估监测专家库专家
 
