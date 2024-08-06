@@ -45,6 +45,8 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 # 📰已发表论文
 
+●Jinhao Wen, Jianping Zuo, Zaiquan Wang, Zhijie Wen,  **Jintao Wang**. [Failure mechanism analysis and support strength determination of deep coal mine roadways – A case study[J].](https://doi.org/10.1016/j.conbuildmat.2024.137704) Construction and Building Materials, 2024, 443:137704.
+
 ●**Jintao Wang**, Jianping Zuo, Yunjiang Sun, Jinhao Wen. [The effects of thermal treatments on the fatigue crack growth of Beishan granite: an in situ observation study[J].]( https://doi.org/10.1007/s10064-020-01966-w) Bulletin of Engineering Geology and the Environment, 2021, 80(2):1541–1555.
 
 ●Bo Lei, Jianping Zuo, Haiyan Liu, **Jintao Wang**, Fei Xu, Hongtao Li. [Experimental and numerical investigation on shale fracture behavior with different bedding properties[J].](https://doi.org/10.1016/j.engfracmech.2021.107639)  Engineering Fracture Mechanics, 2021, 247:107639.
