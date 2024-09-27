@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-&ensp;&ensp;&ensp;&ensp;本人现于鲁东大学水利土木学院从事教学和科研工作。讲授课程主要包括:基础工程（本科）、混凝土结构设计原理（本科）、专业英语（研究生）。研究领域为岩石力学与工程。近期研究兴趣为岩石矿物空间分布特征对其力学性质的影响。目前主持国家级科研项目一项，拟每年招收1-2名研究生，欢迎有志于从事岩石力学领域研究的学生报考。
+&ensp;&ensp;&ensp;&ensp;本人主要讲授课程主要包括:基础工程（本科）、混凝土结构设计原理（本科）、专业英语（研究生）。研究领域为岩石力学与工程。近期研究兴趣为岩石矿物空间分布特征对其力学性质的影响。目前主持国家级科研项目一项，拟每年招收1-2名研究生，欢迎有志于从事岩石力学领域研究的学生报考。
 
 <span class='anchor' id="news"></span>
 #  📌科教项目
@@ -40,7 +40,7 @@ redirect_from:
 
 **教学项目**
 
-●鲁东大学课堂教学改革研究项目，混凝土结构设计原理（2022J64），主持，2022.09-2023.09，已结题。
+●校级课堂教学改革研究项目，混凝土结构设计原理（2022J64），主持，2022.09-2023.09，已结题。
 
 <span class='anchor' id="publications"></span>
 # 📰已发表论文
@@ -142,7 +142,7 @@ redirect_from:
 
 ●烟台市高层次人才，中共烟台市委人才工作领导小组，2022.
 
-●鲁东大学先进工作者，2022.01.
+●校级先进工作者，2022.01.
 <span class='anchor' id="invited-talks"></span>
 # 👨‍💻学术兼职
 ●Rock Mechanics and Rock Engineering, Engineering Fracture Mechanics, Journal of Rock Mechanics and Geotechnical Engineering等十余个国际高水平期刊审稿人
@@ -163,4 +163,4 @@ redirect_from:
 <span class='anchor' id="internships"></span>
 # 🧑‍🤝‍🧑 团队成员
 ●2023级  
-&ensp;王传昊，中国岩石力学与工程学会会员，获批“鲁东大学研究生创新项目”（首届）一项，在研。
+&ensp;王传昊，中国岩石力学与工程学会会员，获批本校“研究生创新项目”（首届）一项，在研。
