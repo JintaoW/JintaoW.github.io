@@ -162,5 +162,9 @@ redirect_from:
 ●全国高校BIM毕业设计创新大赛评审专家
 <span class='anchor' id="internships"></span>
 # 🧑‍🤝‍🧑 团队成员
+●2024级  
+&ensp;王志先
+&ensp;孙连梅
+
 ●2023级  
 &ensp;王传昊，中国岩石力学与工程学会会员，获批本校“研究生创新项目”（首届）一项，在研。
