@@ -45,6 +45,8 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 # 📰已发表论文
 
+●Xingzong Liu, Hongkai Chen, Bin Gong, Guanghui Jiang, **Jintao Wang**. [Formation process of cover collapse sinkholes related to groundwater level decline in karst areas[J].](https://doi.org/10.1007/s11629-024-8944-x) Journal of Mountain Science, 2024, 21(2024):3832–3846.
+
 ●Xingzong Liu, Bin Gong, Yufang Fu, Guanghui Jiang, **Jintao Wang**. [Investigation of the Time-Dependent Deformation of Recycled Aggregate Concrete in a Water Environment[J].](https://doi.org/10.3390/ma17184588) Materials, 2024, 17(18):4588.
 
 ●Jinhao Wen, Jianping Zuo, Zaiquan Wang, Zhijie Wen,  **Jintao Wang**. [Failure mechanism analysis and support strength determination of deep coal mine roadways – A case study[J].](https://doi.org/10.1016/j.conbuildmat.2024.137704) Construction and Building Materials, 2024, 443:137704.
@@ -105,7 +107,7 @@ redirect_from:
 
 **专利**
 
-●**王金涛**，王传昊，姜广辉，刘兴宗，刘岩. 考虑矿物空间分布特征与非均质性的岩石数值建模方法，ZL202410568647.8，2014.10.29.
+●**王金涛**，王传昊，姜广辉，刘兴宗，刘岩. 考虑矿物空间分布特征与非均质性的岩石数值建模方法，ZL202410568647.8，2024.10.29.
 
 ●张拥军，陈关平，杨登峰，**王金涛**，李博. 简便引线、接线卡，ZL201420131200.6，2014.09.
 
