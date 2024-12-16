@@ -45,6 +45,8 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 # 📰已发表论文
 
+●Guanghui Jiang, **Jintao Wang**, Jinhao Wen, Xingzong Liu, Bangyong Yu, Yihan Wang . [Evolution of the internal structure and physical properties of Tongxin sandstone under high temperature[J].](https://doi.org/10.3389/feart.2024.1502647) Frontiers in Earth Science, 2024, 12(2024):1502647.
+
 ●Xingzong Liu, Hongkai Chen, Bin Gong, Guanghui Jiang, **Jintao Wang**. [Formation process of cover collapse sinkholes related to groundwater level decline in karst areas[J].](https://doi.org/10.1007/s11629-024-8944-x) Journal of Mountain Science, 2024, 21(2024):3832–3846.
 
 ●Xingzong Liu, Bin Gong, Yufang Fu, Guanghui Jiang, **Jintao Wang**. [Investigation of the Time-Dependent Deformation of Recycled Aggregate Concrete in a Water Environment[J].](https://doi.org/10.3390/ma17184588) Materials, 2024, 17(18):4588.
