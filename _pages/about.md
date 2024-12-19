@@ -45,7 +45,7 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 # 📰已发表论文
 
-●Guanghui Jiang, **Jintao Wang**, Jinhao Wen, Xingzong Liu, Bangyong Yu, Yihan Wang . [Evolution of the internal structure and physical properties of Tongxin sandstone under high temperature[J].](https://doi.org/10.3389/feart.2024.1502647) Frontiers in Earth Science, 2024, 12(2024):1502647.
+●Guanghui Jiang, **Jintao Wang**, Jinhao Wen, Xingzong Liu, Bangyong Yu, Yihan Wang. [Evolution of the internal structure and physical properties of Tongxin sandstone under high temperature[J].](https://doi.org/10.3389/feart.2024.1502647) Frontiers in Earth Science, 2024, 12(2024):1502647.
 
 ●Xingzong Liu, Hongkai Chen, Bin Gong, Guanghui Jiang, **Jintao Wang**. [Formation process of cover collapse sinkholes related to groundwater level decline in karst areas[J].](https://doi.org/10.1007/s11629-024-8944-x) Journal of Mountain Science, 2024, 21(2024):3832–3846.
 
@@ -176,4 +176,4 @@ redirect_from:
 
 ●2023级  
 &ensp;王传昊  
-&ensp;&ensp;中国岩石力学与工程学会会员，院研究生会主席团成员。主持本校“研究生创新项目”（首届）1项；获2024年鲁东大学研究生学业奖学金（二等）；获2024年度山东高校土木水利交通领域创新实践大赛二等奖，排名1/3，2024.10；获第九届高等院校项目管理大赛校级选拔赛一等奖，2024.05；获本校水利土木学院第一届大学生科技创新大赛（研究生组）二等奖，排名1/3，2024.10.  
+&ensp;&ensp;中国岩石力学与工程学会会员，院研究生会主席团成员。主持本校“研究生创新项目”（首届）1项；获2024年鲁东大学研究生学业奖学金（一等）；获2024年度山东高校土木水利交通领域创新实践大赛二等奖，排名1/3，2024.10；获第九届高等院校项目管理大赛校级选拔赛一等奖，2024.05；获本校水利土木学院第一届大学生科技创新大赛（研究生组）二等奖，排名1/3，2024.10.  
