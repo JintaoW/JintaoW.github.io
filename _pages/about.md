@@ -45,6 +45,8 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 # 📰已发表论文
 
+●Tao Hu, Fengjun Wei, **Jintao Wang**, Yan Wang, Chunhua Song, Kuiliang Han, Kaiqiang Han. [Experimental Study on Fiber Optic Strain Characterization of Overlying Rock Layer Movement Forms and States Using DFOS[J].](https://doi.org/10.3390/photonics12040321) Photonics, 2025, 12(4),321.
+
 ●Guanghui Jiang, **Jintao Wang**, Jinhao Wen, Xingzong Liu, Bangyong Yu, Yihan Wang. [Evolution of the internal structure and physical properties of Tongxin sandstone under high temperature[J].](https://doi.org/10.3389/feart.2024.1502647) Frontiers in Earth Science, 2024, 12(2024):1502647.
 
 ●Xingzong Liu, Hongkai Chen, Bin Gong, Guanghui Jiang, **Jintao Wang**. [Formation process of cover collapse sinkholes related to groundwater level decline in karst areas[J].](https://doi.org/10.1007/s11629-024-8944-x) Journal of Mountain Science, 2024, 21(2024):3832–3846.
