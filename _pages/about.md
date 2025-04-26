@@ -45,6 +45,8 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 # 📰已发表论文
 
+●Zhenfu Zhang, Yongjun Zhang, Sijia Liu, Mingzhong Gao, Fei Liu, **Jintao Wang**. [Critical sliding surface location method for anisotropic slope based on anisotropic yield criterion and optimization algorithm[J].](https://doi.org/10.1038/s41598-025-98685-7) Scientific Reports, 2025, 15(2025), 13832.
+
 ●Tao Hu, Fengjun Wei, **Jintao Wang**, Yan Wang, Chunhua Song, Kuiliang Han, Kaiqiang Han. [Experimental Study on Fiber Optic Strain Characterization of Overlying Rock Layer Movement Forms and States Using DFOS[J].](https://doi.org/10.3390/photonics12040321) Photonics, 2025, 12(4),321.
 
 ●Guanghui Jiang, **Jintao Wang**, Jinhao Wen, Xingzong Liu, Bangyong Yu, Yihan Wang. [Evolution of the internal structure and physical properties of Tongxin sandstone under high temperature[J].](https://doi.org/10.3389/feart.2024.1502647) Frontiers in Earth Science, 2024, 12(2024):1502647.
