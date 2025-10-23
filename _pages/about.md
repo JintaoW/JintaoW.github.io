@@ -45,6 +45,8 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 # 📰已发表论文
 
+●王仁志，张伟国，寇苗苗，刘飞，**王金涛**，张拥军. [基于改进NNA和BP神经网络模型的深基坑沉降预测[J].](https://doi.org/10.12404/j.issn.1671-1815.2408468) 科学技术与工程，2025，25(24)：10416-10425.
+
 ●Yan Chen, Jiangfan Yang, **Jintao Wang**, Shuai Heng, Zhiqiang Hou. [Effects of normal stress on shear properties and acoustic emission characteristics of bonded rock-concrete interfaces[J].](https://doi.org/10.1038/s41598-025-14445-7) Scientific Reports, 2025, 15(2025), 29081.
 
 ●Yongjun Zhang, Zhenfu Zhang, Sijia Liu, Mingzhong Gao, **Jintao Wang**, Jinfeng Cao. [Probabilistic analysis of ground settlement induced by soil and rock composite foundation excavation considering spatial variability[J].](https://doi.org/10.1038/s41598-025-00370-2) Scientific Reports, 2025, 15(2025), 16152.
