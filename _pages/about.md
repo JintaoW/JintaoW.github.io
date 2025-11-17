@@ -192,11 +192,14 @@ redirect_from:
 ●全国高校BIM毕业设计创新大赛评审专家
 <span class='anchor' id="internships"></span>
 # 🧑‍🤝‍🧑 团队成员
+●2025级  
+&ensp;刘家华
+
 ●2024级  
 &ensp;王志先
 
 &ensp;孙连梅
-&ensp;&ensp;获2024年鲁东大学研究生学业奖学金（三等）.
+&ensp;&ensp;获2025年鲁东大学研究生学业奖学金（二等）、2024年鲁东大学研究生学业奖学金（三等）.
 
 ●2023级  
 &ensp;王传昊  
