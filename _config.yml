@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "王金涛 副教授"
+  name             : "王金涛"
   avatar           : "images/photo.png"
   bio              : #"Lorem ipsum College"
   location         : "山东烟台"
