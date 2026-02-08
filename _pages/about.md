@@ -46,6 +46,8 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 # 📰已发表论文
 
+●张家辉，齐鲁杰，张拥军，刘思佳，**王金涛**. [微差爆破下岩质基坑钢管桩响应：以青岛齐鲁医院二期基坑工程为例[J].](https://doi.org/10. 12404/j.issn.1671-1815.2409358) 科学技术与工程，2025，25(32)：13955-13963.
+
 ●王仁志，张伟国，寇苗苗，刘飞，**王金涛**，张拥军. [基于改进NNA和BP神经网络模型的深基坑沉降预测[J].](https://doi.org/10.12404/j.issn.1671-1815.2408468) 科学技术与工程，2025，25(24)：10416-10425.
 
 ●Yan Chen, Jiangfan Yang, **Jintao Wang**, Shuai Heng, Zhiqiang Hou. [Effects of normal stress on shear properties and acoustic emission characteristics of bonded rock-concrete interfaces[J].](https://doi.org/10.1038/s41598-025-14445-7) Scientific Reports, 2025, 15(2025), 29081.
