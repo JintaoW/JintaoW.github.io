@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: 项目成果
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 主持与参与的科研项目、教学改革项目，以及专利授权与软件著作权。
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [科研项目, 教学项目, 专利授权, 软件著作权]
 horizontal: false
 ---
 
@@ -43,23 +43,12 @@ horizontal: false
 
 {% assign sorted_projects = site.projects | sort: "importance" %}
 
-  <!-- Generate cards for each project -->
+<div class="row row-cols-1 row-cols-md-3">
+  {% for project in sorted_projects %}
+    {% include projects.liquid %}
+  {% endfor %}
+</div>
 
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
 {% endif %}
+
 </div>
