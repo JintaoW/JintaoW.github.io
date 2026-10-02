@@ -26,11 +26,11 @@ schedule:
     description: 岩石力学英文文献精读
 
   - week: 5
-    topic: Academic Writing: Abstract
+    topic: "Academic Writing: Abstract"
     description: 摘要的要素与常用句式
 
   - week: 6
-    topic: Academic Writing: Introduction
+    topic: "Academic Writing: Introduction"
     description: 研究背景、问题与贡献的表达
 
   - week: 7
