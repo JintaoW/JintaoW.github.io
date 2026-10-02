@@ -3,7 +3,7 @@ layout: page
 title: 校级课堂教学改革研究项目
 description: 混凝土结构设计原理（2022J64）· 主持 · 2022.09–2023.09 · 已结题
 img: assets/img/cover-teaching.png
-importance: 1
+importance: 2
 category: 教学项目
 related_publications: false
 ---
