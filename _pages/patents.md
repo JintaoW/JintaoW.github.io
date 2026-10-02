@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 主持项目
-permalink: /projects/
-description: 主持与参与的科研项目及教学改革项目。
+title: 专利与软著
+permalink: /patents/
+description: 发明专利授权与计算机软件著作权登记。
 nav: true
-nav_order: 4
-display_categories: [科研项目, 教学项目]
+nav_order: 3
+display_categories: [专利授权, 软件著作权]
 ---
 
-<!-- pages/projects.md ：主持项目，按类别以纯列表形式列出，不做卡片。专利与软著见 _pages/patents.md。 -->
+<!-- pages/patents.md ：专利与软著，按类别以纯列表形式列出，不做卡片。条目内容在 _projects/ 目录下（category 为“专利授权”或“软件著作权”）。 -->
 <div class="projects">
   {% for category in page.display_categories %}
     <a id="{{ category }}" href=".#{{ category }}">

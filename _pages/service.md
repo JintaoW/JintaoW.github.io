@@ -4,7 +4,7 @@ title: 学术兼职与服务
 permalink: /service/
 description: 学术团体任职、专家库与期刊审稿服务。
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <ul class="service-list">

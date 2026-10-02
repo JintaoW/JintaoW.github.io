@@ -2,9 +2,9 @@
 layout: page
 title: 团队成员
 permalink: /people/
-description: 课题组在读研究生与主要成果。
+description: 课题组在读与已毕业研究生介绍。
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 课题组每年招收 1–2 名硕士研究生，欢迎对岩石力学与工程感兴趣的同学加入。点击学生卡片可展开查看其科研成果。

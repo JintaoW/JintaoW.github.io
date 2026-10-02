@@ -4,7 +4,7 @@ title: 荣誉奖励
 permalink: /awards/
 description: 科研奖励、教学与竞赛指导荣誉与荣誉称号。
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 ## 科研奖励
