@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jintaow.github.io/academic-homepage/sitemap.xml
+Sitemap: https://jintaow.github.io/sitemap.xml
