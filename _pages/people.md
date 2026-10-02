@@ -7,37 +7,73 @@ nav: true
 nav_order: 4
 ---
 
-课题组每年招收 1–2 名硕士研究生，欢迎对岩石力学与工程感兴趣的同学加入。
+课题组每年招收 1–2 名硕士研究生，欢迎对岩石力学与工程感兴趣的同学加入。点击学生卡片可展开查看其科研成果。
 
-<div class="people-grid">
+<!--
+  学生照片放在 assets/img/students/ 目录下，文件名必须为：
+    liujiahua.jpg（刘家华）、wangzhixian.jpg（王志先）、sunlianmei.jpg（孙连梅）、wangchuanhao.jpg（王传昊）
+  照片建议正方形或竖版（会自动按 64x64 裁切）；文件不存在时自动显示姓名首字占位，上传后刷新即可显示。
+-->
 
-  <div class="person-card">
-    <div class="person-avatar">刘</div>
-    <div class="person-body">
-      <h3>刘家华</h3>
-      <p class="person-meta">2025 级硕士研究生 · 岩石矿物空间分布特征</p>
+## 2025 级
+
+<div class="student-grid">
+
+  <details class="student-card">
+    <summary>
+      <span class="student-photo">
+        <span class="student-initial">刘</span>
+        <img src="{{ '/assets/img/students/liujiahua.jpg' | relative_url }}" alt="刘家华" onerror="this.remove()">
+      </span>
+      <span class="student-info">
+        <span class="student-name">刘家华</span>
+        <span class="student-meta">2025 级硕士研究生 · 岩石矿物空间分布特征</span>
+      </span>
+    </summary>
+    <div class="student-detail">
       <ul>
         <li>参与软件著作权《多相固体组分空间分布特征检验系统 V1.0》（2025SR2461110）</li>
       </ul>
     </div>
-  </div>
+  </details>
 
-  <div class="person-card">
-    <div class="person-avatar">王</div>
-    <div class="person-body">
-      <h3>王志先</h3>
-      <p class="person-meta">2024 级硕士研究生 · 多相固体组分空间分布</p>
+</div>
+
+## 2024 级
+
+<div class="student-grid">
+
+  <details class="student-card">
+    <summary>
+      <span class="student-photo">
+        <span class="student-initial">王</span>
+        <img src="{{ '/assets/img/students/wangzhixian.jpg' | relative_url }}" alt="王志先" onerror="this.remove()">
+      </span>
+      <span class="student-info">
+        <span class="student-name">王志先</span>
+        <span class="student-meta">2024 级硕士研究生 · 多相固体组分空间分布</span>
+      </span>
+    </summary>
+    <div class="student-detail">
       <ul>
         <li>软件著作权《多相固体组分空间分布特征检验系统 V1.0》第一完成人（2025SR2461110，2025.12）</li>
       </ul>
     </div>
-  </div>
+  </details>
 
-  <div class="person-card">
-    <div class="person-avatar">孙</div>
-    <div class="person-body">
-      <h3>孙连梅</h3>
-      <p class="person-meta">2024 级硕士研究生 · 岩石力学与工程</p>
+
+  <details class="student-card">
+    <summary>
+      <span class="student-photo">
+        <span class="student-initial">孙</span>
+        <img src="{{ '/assets/img/students/sunlianmei.jpg' | relative_url }}" alt="孙连梅" onerror="this.remove()">
+      </span>
+      <span class="student-info">
+        <span class="student-name">孙连梅</span>
+        <span class="student-meta">2024 级硕士研究生 · 岩石力学与工程</span>
+      </span>
+    </summary>
+    <div class="student-detail">
       <ul>
         <li>2025 年校级研究生学业奖学金二等奖、2024 年三等奖</li>
         <li>2024–2025 学年校级“优秀研究生”</li>
@@ -46,13 +82,26 @@ nav_order: 4
         <li>中国研究生乡村振兴科技强农+创新大赛第二届乡村振兴志愿服务技能大赛“优秀志愿者”</li>
       </ul>
     </div>
-  </div>
+  </details>
 
-  <div class="person-card">
-    <div class="person-avatar">王</div>
-    <div class="person-body">
-      <h3>王传昊</h3>
-      <p class="person-meta">2023 级硕士研究生 · 岩石矿物空间相关性建模</p>
+</div>
+
+## 2023 级
+
+<div class="student-grid">
+
+  <details class="student-card">
+    <summary>
+      <span class="student-photo">
+        <span class="student-initial">王</span>
+        <img src="{{ '/assets/img/students/wangchuanhao.jpg' | relative_url }}" alt="王传昊" onerror="this.remove()">
+      </span>
+      <span class="student-info">
+        <span class="student-name">王传昊</span>
+        <span class="student-meta">2023 级硕士研究生 · 岩石矿物空间相关性建模</span>
+      </span>
+    </summary>
+    <div class="student-detail">
       <ul>
         <li>软件著作权《岩石矿物空间相关性分析与建模系统 V1.0》第一完成人（2024SR1373373）</li>
         <li>发明专利《考虑矿物空间分布特征与非均质性的岩石数值建模方法》第二发明人（ZL202410568647.8）</li>
@@ -66,17 +115,6 @@ nav_order: 4
         <li>学院第一届大学生科技创新大赛（研究生组）二等奖（1/3），2024.10</li>
       </ul>
     </div>
-  </div>
+  </details>
 
 </div>
-
-<style>
-.people-grid { display: flex; flex-wrap: wrap; gap: 18px; margin: 1.5rem 0 2rem; }
-.person-card { flex: 1 1 320px; display: flex; gap: 14px; padding: 16px 18px; border: 1px solid var(--global-divider-color); border-radius: 10px; background: var(--global-card-bg-color, transparent); }
-.person-avatar { flex: 0 0 46px; height: 46px; width: 46px; border-radius: 50%; background: var(--global-theme-color); color: #fff; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; justify-content: center; }
-.person-body { flex: 1 1 auto; }
-.person-body h3 { margin: 0 0 2px 0; font-size: 1.1rem; }
-.person-meta { margin: 0 0 8px 0; font-size: 0.85rem; opacity: 0.75; }
-.person-body ul { margin: 0; padding-left: 1.1rem; font-size: 0.88rem; }
-.person-body ul li { margin-bottom: 3px; }
-</style>

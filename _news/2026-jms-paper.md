@@ -2,6 +2,7 @@
 layout: post
 date: 2026-09-01 12:00:00+0800
 inline: true
+featured: true # 该条会显示在首页“最新动态”中
 related_posts: false
 ---
 

@@ -6,49 +6,23 @@ description: 主持与参与的科研项目、教学改革项目，以及专利�
 nav: true
 nav_order: 3
 display_categories: [科研项目, 教学项目, 专利授权, 软件著作权]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/projects.md ：按类别以纯列表形式列出，不做卡片。 -->
 <div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
   {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
+    <a id="{{ category }}" href=".#{{ category }}">
+      <h2 class="category">{{ category }}</h2>
+    </a>
+    {% assign categorized_projects = site.projects | where: "category", category %}
+    {% assign sorted_projects = categorized_projects | sort: "importance" %}
+    <ul class="project-items">
+      {% for project in sorted_projects %}
+        <li>
+          <span class="project-title">{{ project.title }}</span>
+          <span class="project-desc">{{ project.description }}</span>
+        </li>
+      {% endfor %}
+    </ul>
   {% endfor %}
-
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-<div class="row row-cols-1 row-cols-md-3">
-  {% for project in sorted_projects %}
-    {% include projects.liquid %}
-  {% endfor %}
-</div>
-
-{% endif %}
-
 </div>

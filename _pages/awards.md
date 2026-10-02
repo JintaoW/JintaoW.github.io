@@ -2,9 +2,9 @@
 layout: page
 title: 荣誉奖励
 permalink: /awards/
-description: 科研奖励、教学与竞赛指导荣誉、荣誉称号及学术兼职。
+description: 科研奖励、教学与竞赛指导荣誉与荣誉称号。
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## 科研奖励
@@ -37,14 +37,6 @@ nav_order: 5
   <div class="award-badge">烟台市高层次人才（D 类）<span>中共烟台市委人才工作领导小组 · 2025</span></div>
   <div class="award-badge">鲁东大学校级先进工作者<span>2022.01</span></div>
 </div>
-
-## 学术兼职与服务
-
-- *Rock Mechanics and Rock Engineering*、*Engineering Fracture Mechanics*、*Journal of Rock Mechanics and Geotechnical Engineering*、*International Journal of Rock Mechanics and Mining Sciences* 等 20 余个国际高水平期刊审稿人
-- 国际岩石力学学会（ISRM）会员；中国岩石力学与工程学会会员；中国煤炭学会会员；中国仿真学会会员；山东省人工智能学会会员
-- 山东省科技厅科技专家库成员（技术研发类）
-- 中国研究生教育评估监测专家库专家；中国知网 CNKI 评审专家库专家；重庆维普资讯有限公司特邀咨询专家
-- 山东省大学生创新创业大赛评审专家；全国高校 BIM 毕业设计创新大赛评审专家
 
 <style>
 .award-wall { display: flex; flex-wrap: wrap; gap: 12px; margin: 1.2rem 0 1.8rem; }
