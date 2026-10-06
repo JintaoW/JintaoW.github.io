@@ -113,7 +113,7 @@
         {%- endif -%}
         {%- assign author_display = author.first | append: ' ' | append: author_last_html | strip -%}
         {%- if author_is_self -%}
-          <em>{{ author_display }}</em>
+          <strong><em>{{ author_display }}</em></strong>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">{{ author_display }}</a>

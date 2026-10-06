@@ -22,13 +22,13 @@ nav_order: 7
   <div class="award-badge">第十届全国高校 BIM 毕业设计创新大赛 · 优秀指导教师<span>2024.06</span></div>
   <div class="award-badge">第九届全国高校 BIM 毕业设计创新大赛 · 优秀指导教师<span>2023.06</span></div>
   <div class="award-badge">全国高校商业精英挑战赛创新创业竞赛山东省总决赛 · 优秀指导教师<span>2021.06</span></div>
-  <div class="award-badge">第十届全国高校 BIM 毕业设计创新大赛 E 模块 · 三等奖<span>BIM 建设工程项目管理应用 · 指导教师：刘兴宗、王金涛 · 2024.06</span></div>
-  <div class="award-badge">第九届全国高校 BIM 毕业设计创新大赛 A 模块 · 三等奖<span>施工 BIM 建模与应用 · 指导教师：王金涛、姜广辉 · 2023.06</span></div>
-  <div class="award-badge">2024 年度山东高校土木水利交通领域创新实践大赛 · 二等奖<span>指导教师：王金涛、姜广辉 · 2024.10</span></div>
-  <div class="award-badge">第十九届“挑战杯”鲁东大学大学生课外学术科技作品竞赛 · 三等奖<span>指导教师：王金涛 · 2025.04</span></div>
-  <div class="award-badge">鲁东大学水利土木学院第一届大学生科技创新大赛（研究生组）· 二等奖<span>指导教师：王金涛 · 2024.10</span></div>
-  <div class="award-badge">第九届高等院校项目管理大赛校级选拔赛 · 一等奖<span>指导教师：王金涛 · 2024.05</span></div>
-  <div class="award-badge">全国高校商业精英挑战赛创新创业竞赛山东省总决赛 · 三等奖（2 项）<span>指导教师：王金涛 · 2021.06</span></div>
+  <div class="award-badge">第十届全国高校 BIM 毕业设计创新大赛 E 模块 · 三等奖<span>BIM 建设工程项目管理应用 · 指导教师：刘兴宗、<strong>王金涛</strong> · 2024.06</span></div>
+  <div class="award-badge">第九届全国高校 BIM 毕业设计创新大赛 A 模块 · 三等奖<span>施工 BIM 建模与应用 · 指导教师：<strong>王金涛</strong>、姜广辉 · 2023.06</span></div>
+  <div class="award-badge">2024 年度山东高校土木水利交通领域创新实践大赛 · 二等奖<span>指导教师：<strong>王金涛</strong>、姜广辉 · 2024.10</span></div>
+  <div class="award-badge">第十九届“挑战杯”鲁东大学大学生课外学术科技作品竞赛 · 三等奖<span>指导教师：<strong>王金涛</strong> · 2025.04</span></div>
+  <div class="award-badge">鲁东大学水利土木学院第一届大学生科技创新大赛（研究生组）· 二等奖<span>指导教师：<strong>王金涛</strong> · 2024.10</span></div>
+  <div class="award-badge">第九届高等院校项目管理大赛校级选拔赛 · 一等奖<span>指导教师：<strong>王金涛</strong> · 2024.05</span></div>
+  <div class="award-badge">全国高校商业精英挑战赛创新创业竞赛山东省总决赛 · 三等奖（2 项）<span>指导教师：<strong>王金涛</strong> · 2021.06</span></div>
 </div>
 
 ## 荣誉称号
