@@ -105,20 +105,14 @@
           {%- endif %}
           {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
         {% endif %}
+        {%- assign author_display = author.first | append: ' ' | append: author_last_html | strip -%}
         {%- if author_is_self -%}
-          <em>
-            {{- author.first }}
-            {{ author_last_html -}}
-          </em>
+          <em>{{ author_display }}</em>
         {%- else -%}
           {%- if coauthor_url -%}
-            <a href="{{ coauthor_url }}">
-              {{- author.first }}
-              {{ author_last_html -}}
-            </a>
+            <a href="{{ coauthor_url }}">{{ author_display }}</a>
           {%- else -%}
-            {{- author.first }}
-            {{ author_last_html -}}
+            {{- author_display -}}
           {% endif %}
         {%- endif -%}
       {% endfor %}
@@ -131,7 +125,8 @@
         {%- endif -%}
         {% assign more_authors_show = '' %}
         {%- for author in entry.author_array offset: author_array_limit -%}
-          {% assign more_authors_show = more_authors_show | append: author.first | append: ' ' | append: author.last %}
+          {% assign author_display = author.first | append: ' ' | append: author.last | strip %}
+          {% assign more_authors_show = more_authors_show | append: author_display %}
           {% unless forloop.last %}
             {% assign more_authors_show = more_authors_show | append: ', ' %}
           {% endunless %}
