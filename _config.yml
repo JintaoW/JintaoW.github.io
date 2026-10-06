@@ -354,7 +354,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Wang, 王]
+  last_name: [Wang, 王, 王金涛]
   first_name: [Jintao, Jin-tao, Jin-Tao, 金涛]
 
   style: apa
