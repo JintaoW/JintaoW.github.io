@@ -74,6 +74,12 @@
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
+      {%- assign entry_is_cjk = false -%}
+      {%- for _a in entry.author_array -%}
+        {%- assign _last = _a.last | default: '' -%}
+        {%- assign _stripped = _last | regex_replace: '[一-龥]', '' -%}
+        {%- if _stripped != _last -%}{%- assign entry_is_cjk = true -%}{%- endif -%}
+      {%- endfor -%}
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
@@ -98,11 +104,13 @@
         {%- endif -%}
 
         {%- if forloop.length > 1 -%}
-          {% if forloop.first == false -%}
-            {%- if forloop.length > 2 %}, {% elsif forloop.length == 2 %}  {% endif %}
-          {%- endif %}
-          {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
-        {% endif %}
+          {%- if forloop.first == false -%}
+            {%- assign sep = ', ' -%}
+            {%- if entry_is_cjk -%}{%- assign sep = '，' -%}{%- elsif forloop.length == 2 -%}{%- assign sep = '  ' -%}{%- endif -%}
+            {{- sep -}}
+          {%- endif -%}
+          {%- if forloop.last and author_array_limit == author_array_size -%}{%- unless entry_is_cjk -%}and {% endunless -%}{%- endif -%}
+        {%- endif -%}
         {%- assign author_display = author.first | append: ' ' | append: author_last_html | strip -%}
         {%- if author_is_self -%}
           <em>{{ author_display }}</em>
@@ -111,7 +119,7 @@
             <a href="{{ coauthor_url }}">{{ author_display }}</a>
           {%- else -%}
             {{- author_display -}}
-          {% endif %}
+          {%- endif -%}
         {%- endif -%}
       {% endfor %}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
