@@ -80,9 +80,7 @@
         {%- assign author_last_html = author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
         {%- comment -%} local override: also mark the owner when the name is written in Chinese,{%- endcomment -%}
         {%- assign author_full_name = author.first | append: ' ' | append: author.last | strip -%}
-        {% if author_full_name == site.first_name %}
-          {% assign author_is_self = true %}
-        {% endif %}
+        {%- if author_full_name == site.first_name -%}{%- assign author_is_self = true -%}{%- endif -%}
         {% if site.scholar.last_name contains author_last_name %}
           {% if author.first == blank or site.scholar.first_name contains author.first %}
             {% assign author_is_self = true %}
@@ -125,8 +123,8 @@
         {%- endif -%}
         {% assign more_authors_show = '' %}
         {%- for author in entry.author_array offset: author_array_limit -%}
-          {% assign author_display = author.first | append: ' ' | append: author.last | strip %}
-          {% assign more_authors_show = more_authors_show | append: author_display %}
+          {%- assign author_display = author.first | append: ' ' | append: author.last | strip -%}
+          {%- assign more_authors_show = more_authors_show | append: author_display -%}
           {% unless forloop.last %}
             {% assign more_authors_show = more_authors_show | append: ', ' %}
           {% endunless %}
